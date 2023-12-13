@@ -1,4 +1,4 @@
-### Current Project: 🍃 [Ivy Git](https://ivygit.com/)
+### Current Project: 🍃 [Ivy Git](https://github.com/reiniiriarios/ivy-git)
 
 (WIP) Cross-Platform Git Client
 
